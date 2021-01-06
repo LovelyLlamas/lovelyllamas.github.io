@@ -435,14 +435,14 @@ input.input100 {
 
 /*---------------------------------------------*/
 .how-btn1 {
-  background-color: #3a5dff;
+  background-color: #333;
   border-radius: 25px;
   padding: 0 20px;
   transition: all .4s ease-in-out;
 }
 
 .how-btn1:hover {
-  background-color: #333;
+  background-color: #3a5dff;
   color: #fff;
 }
 
